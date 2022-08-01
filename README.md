@@ -1,12 +1,12 @@
 ### Hi there, I'm Rayana 👋
 
-Master in Computer Science at UFERSA
+• Master in Computer Science at UFERSA
 
-PhD student in Computer Science at UFCG 
+• PhD student in Computer Science at UFCG 
 
 ### Find me: ​
 
-Linkedin | Lattes | Twitter | Instagram
+<a href="https://www.linkedin.com/in/rayanasouza/">Linkedin</a> | <a href="http://lattes.cnpq.br/5509612939937053">Lattes</a>
 
 Contact me by email: rayana.azus@gmail.com
 
