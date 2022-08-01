@@ -1,5 +1,15 @@
 ### Hi there, I'm Rayana 👋
 
+Master in Computer Science at UFERSA
+
+PhD student in Computer Science at UFCG 
+
+### Find me: ​
+
+Linkedin | Lattes | Twitter | Instagram
+
+Contact me by email: rayana.azus@gmail.com
+
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rayanarocha&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanarocha&layout=compact&langs_count=16&theme=dracula"/>
