@@ -11,7 +11,10 @@
 <div>
   <a href="https://www.linkedin.com/in/rayanasouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
   <a href="mailto:rayana.azus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
-  
+  <a href="rayanarocha#0973"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+  <a href="mailto:rayana.azus@gmail.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+</div>
+
 ##
 
 <div>
@@ -21,12 +24,12 @@
 
 ##
 
-<div style="display": inline_block"><br>
-<img align="center" alt="Rayo-Conda" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-<img align="center" alt="Rayo-Latex" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-<img align="center" alt="Rayo-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Rayo-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-<img align="right" alt="Rayo-Rayo" height="120" width="130" src="https://i.picasion.com/pic92/922672d1bd8c9fa2f0e6a6402a20424f.gif">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rayo-Conda" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Rayo-Latex" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+  <img align="center" alt="Rayo-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rayo-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="right" alt="Rayo-Rayo" height="120" width="130" src="https://i.picasion.com/pic92/922672d1bd8c9fa2f0e6a6402a20424f.gif">
 </div>
                                                                                                                                  
  ##
