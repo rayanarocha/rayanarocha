@@ -31,7 +31,8 @@
                                                                                                                                  
  ##
 
-![Snake animation](https://github.com/rayanarocha/rayanarocha/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rayanarocha/rayanarocha/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **rayanarocha/rayanarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
