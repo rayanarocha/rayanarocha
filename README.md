@@ -29,7 +29,7 @@
   <img align="center" alt="Rayo-Latex" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="Rayo-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rayo-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="right" alt="Rayo-Rayo" height="120" width="130" src="https://i.picasion.com/pic92/922672d1bd8c9fa2f0e6a6402a20424f.gif">
+  <img align="right" alt="Rayo-Rayo" height="100" width="110" src="https://i.picasion.com/pic92/922672d1bd8c9fa2f0e6a6402a20424f.gif">
 </div>
                                                                                                                                  
  ##
