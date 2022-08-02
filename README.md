@@ -18,6 +18,7 @@
 ##
 
 <div>
+  <a href="https://beacons.ai/rayanarocha">
   <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=rayanarocha&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180cm" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanarocha&layout=compact&langs_count=16&theme=dracula"/>
 </div>
