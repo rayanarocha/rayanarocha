@@ -13,7 +13,7 @@
   <a href="mailto:rayana.azus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
   <a href="https://t.me/rayanarocha"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
   <a href="https://discord.gg/rVCA68hWpn"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
-  <img align="center" alt="Rayo-Rayo" height="90" width="100" src="https://i.picasion.com/pic92/4c93d79f1a6706c4f90917915e1a596d.gif" vspace="150" hspace="300">
+  <img align="center" alt="Rayo-Rayo" height="90" width="100" src="https://i.picasion.com/pic92/4c93d79f1a6706c4f90917915e1a596d.gif" vspace="150" hspace="200">
 </div>
 
 ##
