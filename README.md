@@ -2,7 +2,7 @@
 
 • Master in Computer Science at UFERSA
 
-• PhD student in Computer Science at UFCG 
+• PhD Candidate in Computer Science at UFCG 
 
 ##
 
