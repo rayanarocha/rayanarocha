@@ -42,6 +42,7 @@
   <img align="center" alt="Rayo-Sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Rayo-Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
   <img align="center" alt="Rayo-Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Rayo-Clojure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg"/>
 </div>
                                                                                                                                  
  ##
