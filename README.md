@@ -1,6 +1,6 @@
 ### Hi there, I'm Rayana 👋
 
-• Master in Computer Science at UFERSA
+• Master in Computer Science - UFERSA
 
 • Ph.D Candidate in Computer Science at UFCG 
 
