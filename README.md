@@ -1,12 +1,14 @@
-### Hi there, I'm Rayana 👋
+### Olá, Me chamo Rayana. Seja muito bem-vindo(a) ao meu GitHub 👋
 
-• Master in Computer Science - UFERSA
+• Bacharela em Sistemas de Informação - UNIFACISA
 
-• Ph.D Candidate in Computer Science at UFCG 
+• Mestre em Ciência da Computação - UFERSA
+
+• Doutoranda em Ciência da Computação - UFCG 
 
 ##
 
-### Find me: ​
+### Você pode entrar em contato comigo através dos meio abaixo: ​
 
 <div>
   <a href="https://www.linkedin.com/in/rayanasouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
