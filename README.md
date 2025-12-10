@@ -4,8 +4,6 @@
 
 • Mestre em Ciência da Computação - UFERSA
 
-• Doutoranda em Ciência da Computação - UFCG 
-
 ##
 
 ### Você pode entrar em contato comigo através dos meio abaixo: ​
